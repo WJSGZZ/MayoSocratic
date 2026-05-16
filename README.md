@@ -4,7 +4,7 @@
 
 # MayoSocratic
 
-### 先把关键问题问清楚，再给建议。
+### The wisest answer begins with a question.
 
 <br/>
 
